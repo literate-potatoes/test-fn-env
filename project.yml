@@ -1,0 +1,7 @@
+environment:
+  name: ${name}
+  coolness_factor: ${coolness_factor}
+packages:
+  - name: default
+    actions:
+      - name: say-it-sammy
